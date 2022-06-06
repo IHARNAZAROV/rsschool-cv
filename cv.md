@@ -35,12 +35,11 @@ HTML, CSS, & JavaScript
 
 #### **Skills**
 1. Programming Languages: C#,HTML,CSS,Javascript
-2. Other technologies: SQL
+2. Other technologies: SQL, Git, Webpack
 3. UI: Axure, Balsamiq Mockups
 
 #### **Projects**
-1. [Task Portfolio](https://portfolio-nazarov-rsschool.netlify.com)
-2. [Task Codejam Image API](https://codejam-image-api-nazarov-rsschool.netlify.com)
+1. [Task Portfolio](https://web-portfolio-igornazarov.netlify.app)
 3. [Site Brow Master](https://brow-master-anzhelika.netlify.com/)
 
 
